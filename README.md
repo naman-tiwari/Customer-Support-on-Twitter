@@ -3,7 +3,7 @@
 **Dataset** https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter/data
 # Customer Support for Twitter: Sequence to Sequence Mapping, Emoji Removal, Punctuation Stripping, URL Filtering
 
-This dataset contains a collection of tweets related to customer support on Twitter, where we have performed sequence to sequence mapping, emoji removal, punctuation stripping, and URL filtering.
+This dataset contains a collection of tweets related to customer support on Twitter, where I have performed sequence to sequence mapping, emoji removal, punctuation stripping, and URL filtering.(more processing to follow)
 
 ## Dataset Overview
 
